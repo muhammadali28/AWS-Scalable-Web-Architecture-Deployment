@@ -1,5 +1,5 @@
-# Scalable-and-Secure-Web-Application-Deployment-on-AWS-Cloud-Infrastructure
-![My Image](diagram.png)
+# AWS-Scalable-Web-Architecture-Deployment
+![diagram](https://github.com/user-attachments/assets/9d9d6fbe-75d0-496f-b719-8e8b344848a8)
 
 ## Objective:-
 The objective of this project is to deploy a highly available, secure, and scalable web application using Amazon Web Services (AWS).
